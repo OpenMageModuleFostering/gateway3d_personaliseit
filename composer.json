@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Gateway3D_PersonaliseIt",
+    "name": "OpenMageModuleFostering\/Gateway3D_PersonaliseIt",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "PERSONALISE-IT ECOMMERCE EXTENSION FOR MAGENTO enables you to add personalised products to your magento website and back office system.",
     "authors": [
-    {
-        "name": "James Ball",
-        "email": "andrew@gateway3d.com"
-    }
-],
+        {
+            "name": "James Ball",
+            "email": "andrew@gateway3d.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
